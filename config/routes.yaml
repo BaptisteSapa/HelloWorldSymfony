@@ -1,0 +1,5 @@
+# config/routes.yaml
+
+hello_the_world:
+    path:       /
+    controller: App\Controller\HelloworldController::index
